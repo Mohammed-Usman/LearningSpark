@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Sun Mar 07 23:39:45 PST 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-10c7-10e6-000005c8a0a0 
-on database directory /home/usman/Documents/learningSpark/Chap4/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@44163eae 
-Loaded from file:/home/usman/Downloads/spark-3.1.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
-java.vendor=Private Build
-java.runtime.version=1.8.0_282-8u282-b08-0ubuntu1~18.04-b08
-user.dir=/home/usman/Documents/learningSpark/Chap4
+Mon Mar 15 03:15:16 PDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-3561-f77d-0000047e4280 
+on database directory /home/usman/Documents/LearningSpark/Chap4/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/usman/.local/share/virtualenvs/LearningSpark-KLLnuTsq/lib/python3.7/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.10+9-Ubuntu-0ubuntu1.18.04
+user.dir=/home/usman/Documents/LearningSpark/Chap4
 os.name=Linux
 os.arch=amd64
-os.version=5.4.0-66-generic
+os.version=5.4.0-42-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
