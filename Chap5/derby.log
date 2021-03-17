@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 17 00:49:57 PDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-3f29-a466-0000011fd2e0 
+on database directory /home/usman/Documents/LearningSpark/Chap5/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/usman/.local/share/virtualenvs/LearningSpark-KLLnuTsq/lib/python3.7/site-packages/pyspark/jars/derby-10.12.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.10+9-Ubuntu-0ubuntu1.18.04
+user.dir=/home/usman/Documents/LearningSpark/Chap5
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-66-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
